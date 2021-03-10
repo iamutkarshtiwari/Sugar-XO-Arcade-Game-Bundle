@@ -1,8 +1,8 @@
 # XO-Arcade-Bundle
-A collection of SugarOS activities (games) I wrote on PyGame library by programming animations using crude mathematics and geometry.
 
 [<img align="left" ahref="" src="/blobs/sugarlabs.png" width="100" height="100" />](https://github.com/sugarlabs)
-
+A collection of SugarOS activities (games) I wrote on PyGame library by programming animations using crude mathematics and geometry.
+All of my repos of these activities are now maintained by [Sugarlabs](https://github.com/sugarlabs).
 
 ## Previews
 
