@@ -1,28 +1,29 @@
 # XO-Arcade-Bundle
-A collection of XO arcade games written on PyGame library with animations programmed using crude mathematics.
+A collection of SugarOS activities (games) I wrote on PyGame library by programming animations using crude mathematics and geometry.
 
+[<img align="left" ahref="" src="/blobs/sugarlabs.png" width="100" height="100" />](https://github.com/sugarlabs)
 
-<img align="left" src="art/ananas.png" width="100" height="100" />
 
 ## Previews
 
-Flappy Birds | Sonic Jump
+[Flappy Birds](https://github.com/sugarlabs/flappy-birds-activity) | [Sonic Jump](https://github.com/sugarlabs/sonic-jump-activity)
 :--: | :--:
-<img src="/blobs/main_menu.gif" width="300" /> | <img src="/blobs/sonic.gif" width="300" />
+<img src="/blobs/flappy.gif" width="300" /> | <img src="/blobs/sonic.gif" width="300" />
 
-Rotate Mode | Crop Mode
+[2 Cars](https://github.com/sugarlabs/2-cars-activity) | Rules
 :--: | :--:
-<img src="/static/rotate_mode.gif" width="300" /> | <img src="/static/crop_feature.gif" width="300" />
+<img src="/blobs/2_cars.gif" width="300" /> | <img src="/blobs/2_cars_rules.png" width="300" />
 
-Filter Mode |  Paint Mode
+[Buttons and Scissors](https://github.com/sugarlabs/buttons-and-scissors-activity) |  Rules
 :--: | :--:
-<img src="/static/filter_mode.gif" width="300" /> | <img src="/static/paint_mode.gif" width="300" />
+<img src="/blobs/button_and_scissors.gif" height="400" width="500" /> | <img src="/blobs/bns_rules.png" height="400" width="400" />
 
-Beauty Mode | Saturation Mode
+[Stick Hero](https://github.com/sugarlabs/stick-hero-activity) | Rules
 :--: | :--:
-<img src="/static/beauty_mode.gif" width="300" /> | <img src="/static/saturation_mode.gif" width="300" />
+<img src="/blobs/stick_hero.gif" width="300" /> | <img src="/blobs/stick_hero_rules.gif" width="300" />
 
-Brightness Mode | Sticker Mode
+StickHero |
+Normal Mode | Sticker Mode
 :--: | :--:
 <img src="/static/brightness_mode.gif" width="300" /> | <img src="/static/sticker_mode.gif" width="300" />
 
