@@ -14,16 +14,15 @@ All of my repos of these activities are now maintained by [Sugarlabs](https://gi
 :--: | :--:
 <img src="/blobs/2_cars.gif" width="300" /> | <img src="/blobs/2_cars_rules.png" width="300" />
 
-[Buttons and Scissors](https://github.com/sugarlabs/buttons-and-scissors-activity) |  Rules
-:--: | :--:
-<img src="/blobs/button_and_scissors.gif" height="400" width="550" /> | <img src="/blobs/bns_rules.png" height="400" width="400" />
+[Buttons and Scissors](https://github.com/sugarlabs/buttons-and-scissors-activity) |  
+:--: | 
+<img src="/blobs/button_and_scissors.gif" height="500" width="650" /> |
 
 [Stick Hero](https://github.com/sugarlabs/stick-hero-activity) | Rules
 :--: | :--:
 <img src="/blobs/stick_hero.gif" width="300" /> | <img src="/blobs/stick_hero_rules.gif" width="300" />
 
-[Make Them Fall](https://github.com/sugarlabs/make-them-fall-activity)
-Normal Mode | Nightmare Mode
+[Make Them Fall](https://github.com/sugarlabs/make-them-fall-activity) (Normal Mode) | Nightmare Mode
 :--: | :--:
 <img src="/blobs/make_them_normal.gif" width="300" /> | <img src="/blobs/make_them_nightmare.gif" width="300" />
 
@@ -34,9 +33,5 @@ Fear Mode | Inferno Mode
 Impossible Mode (2 players recommended) | Cardiac Mode
 :--: | :--:
 <img src="/blobs/make_them_impossible.gif" width="300" /> | <img src="/blobs/make_them_cardiac.gif" width="300" />
-
-Make Them Fall Rules
-:--: |
-<img src="/blobs/make_them_rules.png" width="300" /> | 
 
 <br>
